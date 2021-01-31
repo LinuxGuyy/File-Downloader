@@ -54,3 +54,6 @@ Script Should Start running & UI is Pretty Self Explainatory.
 
 ---
 ### If You faced issues contact me at [contact.linuxguy@protonmail.com](mailto:contact.linuxguy@protonmail.com)
+
+---
+## Gracias
