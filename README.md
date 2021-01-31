@@ -47,10 +47,10 @@ python3 figletish.py
 Script Should Start running & UI is Pretty Self Explainatory.
 
 ---
-# Read [LICENSE](LICENSE)
+### Read [LICENSE](LICENSE)
 
 ---
-# Read [License](LICENSE) Before Using the Program
+### Read [License](LICENSE) Before Using the Program
 
 ---
-# If You faced issues contact me at [contact.linuxguy@protonmail.com](mailto:contact.linuxguy@protonmail.com)
+### If You faced issues contact me at [contact.linuxguy@protonmail.com](mailto:contact.linuxguy@protonmail.com)
