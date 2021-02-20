@@ -40,7 +40,7 @@ git clone https://github.com/LinuxGuyy/File-Downloader.git
 Step 5. Changing the Current Dir to Script's & starting the Script
 ```bash
 cd File-Downloader/
-python3 figletish.py
+python3 file-downloader.py
 ```
 <br />
 
