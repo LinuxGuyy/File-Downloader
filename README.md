@@ -1,7 +1,7 @@
 # File-Downloader
 Download Files Using [File-Downloader](file-downloader.py)
 
-[<img src="https://img.shields.io/badge/Written%20in-Python%203-yellow" alt="">](https://www.python.org) [<img src="https://img.shields.io/badge/By-LinuxGuy-blue" alt="">](https://github.com/LinuxGuyOfficial)
+[<img src="https://img.shields.io/badge/Written%20in-Python%203-yellow?style=for-the-badge" alt="">](https://www.python.org) [<img src="https://img.shields.io/badge/By-LinuxGuy-blue?style=for-the-badge" alt="">](https://github.com/LinuxGuyy)
 
 ---
 # What is a File ?
@@ -33,7 +33,7 @@ pip3 install requests
 
 Step 4. Downloading The Script
 ```bash
-git clone https://github.com/LinuxGuyOfficial/File-Downloader.git
+git clone https://github.com/LinuxGuyy/File-Downloader.git
 ```
 <br />
 
@@ -47,13 +47,12 @@ python3 figletish.py
 Script Should Start running & UI is Pretty Self Explainatory.
 
 ---
-### Read [LICENSE](LICENSE)
+
+*Read [License](LICENSE) Before Using the Program*
 
 ---
-### Read [License](LICENSE) Before Using the Program
 
----
-### If You faced issues contact me at [contact.linuxguy@protonmail.com](mailto:contact.linuxguy@protonmail.com)
+**If You faced issues contact me at [contact.linuxguy@protonmail.com](mailto:contact.linuxguy@protonmail.com)**
 
 ---
 ## Gracias
