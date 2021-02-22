@@ -1,7 +1,7 @@
 # File-Downloader
 Download Files Using [File-Downloader](file-downloader.py)
 
-[<img src="https://img.shields.io/badge/Written%20in-Python%203-yellow?style=for-the-badge" alt="">](https://www.python.org) [<img src="https://img.shields.io/badge/By-LinuxGuy-blue?style=for-the-badge" alt="">](https://github.com/LinuxGuyy)
+[<img src="https://img.shields.io/badge/Written%20in-Python%203-yellow?style=for-the-badge" alt="">](https://www.python.org) [<img src="https://img.shields.io/badge/By-Majnu007-blue?style=for-the-badge" alt="">](https://github.com/Majnu007)
 
 ---
 # What is a File ?
@@ -33,7 +33,7 @@ pip3 install requests
 
 Step 4. Downloading The Script
 ```bash
-git clone https://github.com/LinuxGuyy/File-Downloader.git
+git clone https://github.com/Majnu007/File-Downloader.git
 ```
 <br />
 
@@ -52,7 +52,8 @@ Script Should Start running & UI is Pretty Self Explainatory.
 
 ---
 
-**If You faced issues contact me at [contact.linuxguy@protonmail.com](mailto:contact.linuxguy@protonmail.com)**
+**If You faced issues contact me at [majnu007@protonmail.com](mailto:majnu007@protonmail.com)**
 
 ---
+
 ## Gracias
